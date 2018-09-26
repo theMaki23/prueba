@@ -20,3 +20,8 @@
 > Esto es una cita. Javier Carmona
 
 `git init`
+
+~~~
+esto es 
+un ejemplo de bloque 
+~~~
