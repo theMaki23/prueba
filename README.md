@@ -1,4 +1,4 @@
-###(ANVERSO)
+### (ANVERSO)
 **ID:** 2 **Mostrar todos los alumnos siguiendo un orden determinado**
 
 ~~~
@@ -7,7 +7,7 @@ Como usuario quiero que se muestre una lista de todos los alumnos ordenada por '
 **Prioridad:** 1
 ~~~
 
-###(REVERSO)
+### (REVERSO)
 
 
 * Quiero que se muestre una lista de todos los alumnos ordenada por el dato que elija, que puede ser 'DNI', 'nombre' o 'apellidos'.
